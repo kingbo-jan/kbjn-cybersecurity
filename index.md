@@ -4,7 +4,7 @@ layout: default
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](https://torch-glitter-ad2.notion.site/Cybersecurity-Projects-157c93d8516f43329b7263d16cab6b92?pvs=4).
+[Cybersecurity Project Descriptions](https://torch-glitter-ad2.notion.site/Cybersecurity-Projects-157c93d8516f43329b7263d16cab6b92?pvs=4).
 
 There should be whitespace between paragraphs.
 
