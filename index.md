@@ -120,7 +120,7 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 
 ## Project Overview
 
-| **Project Name** | **Descriptions** | **Tools Used** | **Resources** |
+| **Project Name** | **Brief Descriptions** | **Tools Used** | **Links** |
 |--------------|--------------|--------------|--------------|
 | Honeypot | - used a tool called Cowrie to setup a honeypot <br> - took the time to set up| Cowrie |--------------|
 | Metasploit | Row 2, Col 2 | Row 2, Col 3 |--------------|
