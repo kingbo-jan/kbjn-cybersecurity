@@ -1,9 +1,3 @@
-# Hello, I'm Kingbo Jan! 👋
-
-I am a 
-
----
-
 ## Project Overview
 
 | **Project Name** | **Descriptions** | **Tools Used** | **Resources** |
