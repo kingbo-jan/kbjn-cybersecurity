@@ -8,7 +8,8 @@ I am a
 
 | **Project Name** | **Descriptions** | **Tools Used** | **Resources** |
 |--------------|--------------|--------------|--------------|
-| Honeypot | - used a tool called Cowrie to setup a honeypot| Cowrie |--------------|
+| Honeypot | - used a tool called Cowrie to setup a honeypot
+| Cowrie |--------------|
 | Metasploit | Row 2, Col 2 | Row 2, Col 3 |--------------|
 | Burpsuite | Row 3, Col 2 | Row 3, Col 3 |--------------|
 | NMAP | - used a tool called Cowrie to setup a honeypot| Cowrie |--------------|
