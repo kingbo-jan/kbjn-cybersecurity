@@ -10,13 +10,6 @@
 | Build a VPN | Row 3, Col 2 | Row 3, Col 3 |--------------|
 | John the Ripper| Row 3, Col 2 | Row 3, Col 3 |--------------|
 
-
-- 🌱 I’m currently exploring the fascinating fields of **Cybersecurity** and **GRC (Governance, Risk, and Compliance)**.
-- 🎮 Gaming has been a huge influence in my interest in technology, and I’ve spent countless hours playing and exploring the digital world through games like **Fortnite**.
-- 🏗️ I have a degree in **Architecture**, which taught me the importance of design, problem-solving, and working under pressure.
-- 💡 I'm transitioning from architecture to a more technology-focused career, sharpening my skills in **cybersecurity**, **networking**, and **cloud technologies**.
-- ⚙️ Tools and technologies I’m familiar with include: `Linux`, `Wireshark`, `tcpdump`, `Kali Linux`, and more.
-
 ---
 
 ## 🚀 My Goals
