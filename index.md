@@ -119,7 +119,7 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 ```
 
 ## Project Overview
-Click [Here](https://torch-glitter-ad2.notion.site/Cybersecurity-Projects-157c93d8516f43329b7263d16cab6b92?pvs=4) to get a more in-depth view on my learning journey on these projects!
+Click [Here](https://torch-glitter-ad2.notion.site/Cybersecurity-Projects-157c93d8516f43329b7263d16cab6b92?pvs=4){:target="_blank"} to get a more in-depth view on my learning journey on these projects!
 
 | **Project Name** | **Brief Descriptions** | **Tools Used** | **Links** |
 |--------------|--------------|--------------|--------------|
