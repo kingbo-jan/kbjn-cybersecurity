@@ -122,7 +122,10 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 
 | **Project Name** | **Brief Descriptions** | **Tools Used** | **Links** |
 |--------------|--------------|--------------|--------------|
-| Honeypot | - used a tool called Cowrie to setup a honeypot <br> - took the time to set up| Cowrie |--------------|
+| Honeypot | - used a tool called Cowrie to setup a honeypot <br> - took the time to set up| Cowrie |[Cowrie Github] (https://cowrie.readthedocs.io/en/latest/)|
+| SIEM | - Learned how to manage logs and threat detection | Elastic Cloud |--------------|
+| Kali Linux VM | - set up a virtual machine to perform network scans and testing in a controlled environment | UTM <br> Kali Linux |--------------|
+| NMAP | - used a tool called Cowrie to setup a honeypot| Cowrie |--------------|
 | Metasploit | Row 2, Col 2 | Row 2, Col 3 |--------------|
 | Burpsuite | Row 3, Col 2 | Row 3, Col 3 |--------------|
 | NMAP | - used a tool called Cowrie to setup a honeypot| Cowrie |--------------|
