@@ -136,13 +136,6 @@ Click [Here](https://torch-glitter-ad2.notion.site/Cybersecurity-Projects-157c93
 
 ---
 
-## 🚀 My Goals
-- 📚 **Short-term**: Earn certifications in **cybersecurity** like CompTIA Security+ and expand my knowledge in **cloud security**.
-- 💼 **Long-term**: Land a role in **cybersecurity GRC** and contribute to building secure systems and processes in organizations.
-- 👾 **Fun Goal**: Continue my passion for gaming while exploring tech behind game development and how to secure gaming infrastructures.
-
----
-
 ## How to Reach Me
 - [LinkedIn](https://www.linkedin.com/in/kingbojan) 
 - [Email](kingbojbusiness@gmail.com)
