@@ -7,12 +7,12 @@ Click [Here](https://torch-glitter-ad2.notion.site/Cybersecurity-Projects-157c93
 | SIEM | - Learned how to manage logs and threat detection | Elastic Cloud |--------------|
 | Kali Linux VM | - set up a virtual machine to perform network scans and testing in a controlled environment | UTM <br> Kali Linux |--------------|
 | NMAP | --------| ------------ |--------------|
-| Metasploit | Row 2, Col 2 | Row 2, Col 3 |--------------|
-| Burpsuite | Row 3, Col 2 | Row 3, Col 3 |--------------|
+| Metasploit |  |  |--------------|
+| Burpsuite |  |  |--------------|
 | NMAP | ----------| Cowrie |--------------|
-| OpenVAS | Row 2, Col 2 | Row 2, Col 3 |--------------|
-| Build a VPN | Row 3, Col 2 | Row 3, Col 3 |--------------|
-| John the Ripper| Row 3, Col 2 | Row 3, Col 3 |--------------|
+| OpenVAS | |  |--------------|
+| Build a VPN |  |  |--------------|
+| John the Ripper|  |  |--------------|
 
 ---
 
