@@ -19,7 +19,7 @@ Click [Here](https://torch-glitter-ad2.notion.site/Cybersecurity-Projects-157c93
 ## How to Reach Me
 - [LinkedIn](https://www.linkedin.com/in/kingbojan) 
 - [Email](kingbojbusiness@gmail.com)
-- [Medium]([https://www.](https://medium.com/@buhbykai))
+- [Medium](https://medium.com/@buhbykai)
 
 ---
 
