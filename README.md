@@ -1,6 +1,6 @@
 # Hello, I'm Kingbo
+### or you can call me kai.
 ## And this is my cybersecurity journey :)
-### Follow my Medium Blog as well to see how I approached each topic.
 
 ## Project Overview
 Click [Here](https://torch-glitter-ad2.notion.site/Cybersecurity-Projects-157c93d8516f43329b7263d16cab6b92?pvs=4) to get a more in-depth view on my learning journey and documentations on these projects!
