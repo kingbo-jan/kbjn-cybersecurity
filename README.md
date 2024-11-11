@@ -1,5 +1,5 @@
-# Hello, I'm Kingbo
-### or you can call me kai.
+# Hello, I'm Kingbo #### or you can call me kai.
+
 ## And this is my cybersecurity journey :)
 
 ## Project Overview
